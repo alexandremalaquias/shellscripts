@@ -31,4 +31,3 @@ else
     os_version="Unknown operating system"
 fi
 
-echo "OS version: $os_version"
